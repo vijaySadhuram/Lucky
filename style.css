@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main{
+    display: flex;
+}
+.container{
+    border: 2px solid crimson;
+
+}
+.tagName{
+    /* text-align: center;
+    margin-top: 1vmax;
+    
+    height: 3vmax;
+    width: 15vmax;
+    padding: 2px;
+    background-color: rgb(218, 122, 122);
+    color: white; */
+    border: 2px solid gray;
+    height: 20px;
+    width: 200px;
+    text-align: center;
+    padding: 10px;
+    margin: 2px;
+    /* display: flex; */
+}
